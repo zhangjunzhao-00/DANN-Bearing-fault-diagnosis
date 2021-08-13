@@ -1,0 +1,2 @@
+model_checkpoint_path: "duan_dian.ckpt-1"
+all_model_checkpoint_paths: "duan_dian.ckpt-1"
